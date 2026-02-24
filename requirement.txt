@@ -1,0 +1,17 @@
+# Core Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing & Computation
+numpy>=1.24.0
+Pillow>=9.5.0
+opencv-python>=4.8.0
+
+# Visualization & UI
+matplotlib>=3.7.0
+gradio>=4.0.0
+
+# Utilities & Metrics
+tqdm>=4.65.0
+wandb>=0.15.0
+torchmetrics[image]>=1.0.0

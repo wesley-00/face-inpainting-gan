@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Môi trường ảo (nếu có)
+venv/
+env/
+.env
+
+# Thư mục dữ liệu và trọng số (Tuyệt đối không push)
+data/
+checkpoints/
+*.pth
+*.pt
+
+# Thư mục rác của OS
+.DS_Store
+Thumbs.db
