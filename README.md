@@ -1,5 +1,5 @@
 # face-inpainting-gan
-# 🎨 High-Res Face Inpainting
+# High-Res Face Inpainting
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
@@ -11,7 +11,7 @@ Dự án này triển khai một hệ thống Deep Learning sử dụng mạng G
 
 ---
 
-## 🧠 Kiến trúc Hệ thống
+## Kiến trúc Hệ thống
 
 
 
@@ -27,7 +27,7 @@ Hệ thống được xây dựng với các kỹ thuật tiên tiến nhất tr
 
 ---
 
-## 📁 Cấu trúc Thư mục
+## Cấu trúc Thư mục
 
 ```text
 face-inpainting-gan/
@@ -46,8 +46,8 @@ face-inpainting-gan/
 ├── evaluate.py            # Script đo lường độ chính xác của mô hình
 ├── app.py                 # Giao diện Web tương tác (Gradio)
 └── requirements.txt       # Danh sách thư viện phụ thuộc
-
-⚙️ Hướng dẫn Cài đặt
+```
+Hướng dẫn Cài đặt
 
 Yêu cầu hệ thống: Python 3.9+ và phần cứng có GPU (NVIDIA) hỗ trợ CUDA.
 
